@@ -1,0 +1,1 @@
+# A-function-of-detects-all-types
